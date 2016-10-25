@@ -1,7 +1,7 @@
 package com.chen.test.service.impl;
 
 import com.chen.test.dao.UserDao;
-import com.chen.test.model.UserEntity;
+import com.chen.test.entity.UserEntity;
 import com.chen.test.service.IUserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

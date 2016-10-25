@@ -1,6 +1,6 @@
 package com.chen.test.dao;
 
-import com.chen.test.model.UserEntity;
+import com.chen.test.entity.UserEntity;
 
 /**
  * Created by Administrator on 2016/9/28.

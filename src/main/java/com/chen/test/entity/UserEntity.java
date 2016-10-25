@@ -1,4 +1,4 @@
-package com.chen.test.model;
+package com.chen.test.entity;
 
 /**
  * Created by Administrator on 2016/9/29.

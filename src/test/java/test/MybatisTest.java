@@ -1,6 +1,6 @@
 package test;
 
-import com.chen.test.model.UserEntity;
+import com.chen.test.entity.UserEntity;
 import com.chen.test.service.IUserService;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
