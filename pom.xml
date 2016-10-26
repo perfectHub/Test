@@ -22,9 +22,9 @@
         <!-- environment setting -->
         <tomcat.version>2.2</tomcat.version>
         <!-- tomcat端口号-->
-        <webserver.port>8181</webserver.port>
+        <webserver.port>8080</webserver.port>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-  </properties>
+    </properties>
 
   <dependencies>
         <!-- 添加Spring依赖 -->
